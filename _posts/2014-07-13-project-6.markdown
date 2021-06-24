@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2021-06-24
+img: molecular1.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2021
+Target: Anyone interested in chemoinformatics
+category: Introduction
+description: Cheminformatics (also known as chemoinformatics) refers to use of physical chemistry theory with computer and information science techniques—so called "in silico" techniques—in application to a range of descriptive and prescriptive problems in the field of chemistry, including in its applications to biology and related molecular fields. Such in silico techniques are used, for example, by pharmaceutical companies and in academic settings to aid and inform the process of drug discovery, for instance in the design of well-defined combinatorial libraries of synthetic compounds, or to assist in structure-based drug design. The methods can also be used in chemical and allied industries, and such fields as environmental science and pharmacology, where chemical processes are involved or studied. (Accoridng to Wikipedia)
 ---
