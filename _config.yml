@@ -30,9 +30,14 @@ color:
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
+# Header Settings
+set_blog: true                        # Display blog?
+header_bg: background.jpg          # Header background Image
+header_bg_title: <a href='http://www.freepik.com'>Background image Designed by Freepik</a>
+
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Dr. Adnane Aouidate
   location: Location
   social: Around the Web
   credits: Credits
